@@ -1,0 +1,6 @@
+# Pytorch
+torch
+torchvision
+
+# ChatGPT-lite
+tiktoken
